@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there.
 
 <!--
 **Akash-Kumar-050506/Akash-Kumar-050506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
